@@ -1,0 +1,6 @@
+C:\Users\Kate\Desktop\cs332-master\cs332-master\raytracer\bin\Debug\raytracer.exe.config
+C:\Users\Kate\Desktop\cs332-master\cs332-master\raytracer\bin\Debug\raytracer.exe
+C:\Users\Kate\Desktop\cs332-master\cs332-master\raytracer\bin\Debug\raytracer.pdb
+C:\Users\Kate\Desktop\cs332-master\cs332-master\raytracer\obj\Debug\raytracer.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\cs332-master\cs332-master\raytracer\obj\Debug\raytracer.exe
+C:\Users\Kate\Desktop\cs332-master\cs332-master\raytracer\obj\Debug\raytracer.pdb
