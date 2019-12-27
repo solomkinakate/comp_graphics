@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\вера\desktop\task 12_1 (3) — копия\main.cpp(190): warning C4244: *=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\вера\desktop\task 12_1 (3) — копия\main.cpp(191): warning C4244: *=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\вера\desktop\task 12_1 (3) — копия\main.cpp(192): warning C4244: *=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\вера\desktop\task 12_1 (3) — копия\main.cpp(352): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\вера\desktop\task 12_1 (3) — копия\main.cpp(395): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\вера\desktop\task 12_1 (3) — копия\main.cpp(397): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Вера\Desktop\Task 12_1 (3) — копия\Release\19.exe"

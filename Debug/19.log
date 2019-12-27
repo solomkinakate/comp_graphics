@@ -1,0 +1,47 @@
+﻿  main.cpp
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(134): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(139): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(144): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(149): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(155): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(242): warning C4018: <: несоответствие типов со знаком и без знака
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(358): warning C4305: аргумент: усечение из "double" к "GLfloat"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(389): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(390): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(391): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(392): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(393): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(394): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(403): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(403): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(404): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(404): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(405): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(405): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(406): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(406): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(407): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(407): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(408): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(408): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(416): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(417): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(418): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(419): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(420): warning C4305: +=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(421): warning C4305: -=: усечение из "double" к "float"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(433): warning C4305: аргумент: усечение из "double" к "GLclampf"
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(445): warning C4244: аргумент: преобразование "double" в "GLsizei", возможна потеря данных
+e:\работа по с#\компьютерная графика\задание№19\19\main.cpp(187): warning C4715: loadOBJ: значение возвращается не при всех путях выполнения
+SOIL.lib(image_DXT.obj) : warning LNK4099: "SOIL.pdb" PDB не найден с "SOIL.lib(image_DXT.obj)" или на "E:\РАБОТА ПО С#\Компьютерная графика\Задание№19\19\Debug\SOIL.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+SOIL.lib(image_helper.obj) : warning LNK4099: "SOIL.pdb" PDB не найден с "SOIL.lib(image_helper.obj)" или на "E:\РАБОТА ПО С#\Компьютерная графика\Задание№19\19\Debug\SOIL.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+SOIL.lib(SOIL.obj) : warning LNK4099: "SOIL.pdb" PDB не найден с "SOIL.lib(SOIL.obj)" или на "E:\РАБОТА ПО С#\Компьютерная графика\Задание№19\19\Debug\SOIL.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: "SOIL.pdb" PDB не найден с "SOIL.lib(stb_image_aug.obj)" или на "E:\РАБОТА ПО С#\Компьютерная графика\Задание№19\19\Debug\SOIL.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  19.vcxproj -> E:\РАБОТА ПО С#\Компьютерная графика\Задание№19\19\Debug\19.exe
